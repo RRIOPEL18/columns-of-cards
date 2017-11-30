@@ -24,10 +24,16 @@ div {
 }
 
 img {
+  width: 100%;
+  display: block;
+}
+
+section img {
   width: 100px;
   display: block;
   margin-left: auto;
   margin-right: auto;
+
 }
 
 h2 {
@@ -88,5 +94,5 @@ h3 {
 
 body {
 background-color: #f2f2f2;
-margin: 0 0 1.5rem;
+margin: 0;
 }
