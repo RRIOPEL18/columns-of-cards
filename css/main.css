@@ -18,6 +18,7 @@ div {
   display: inline-block;
   width: 25%;
   float: left;
+padding-top: .5em;
 }
 
 img {
@@ -37,22 +38,22 @@ p {
   margin: 0;
 }
 
-.Barrett {
+.barrett {
   background-color: #e2e2e2;
   border-left: 1px solid #333;
 }
 
-.Hedegaard {
+.hedegaard {
   background-color: #ccc;
   border-left: 1px solid #333;
 }
 
-.Cejkova {
+.cejkova {
   background-color: #aaa;
   border-left: 1px solid #333;
 }
 
-.Olivarez {
+.olivarez {
   background-color: #999;
   border-left: 1px solid #333;
   border-right: 1px solid #333;
@@ -69,5 +70,8 @@ a {
   background-color: #333;
   color: #fff;
   font-size: .7rem;
-
+  padding: .75rem;
+  text-decoration: none;
+  text-align: center;
+  margin: 1rem;
 }
