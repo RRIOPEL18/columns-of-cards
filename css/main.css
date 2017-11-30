@@ -24,11 +24,18 @@ img {
 
 h2 {
   font-size: 1rem;
+  margin: 0;
+}
+
+p {
+  font-size: .875rem;
+  margin: 0;
 }
 
 .Barrett {
   background-color: #e2e2e2;
   border-left: 1px solid #333;
+
 }
 
 .Hedegaard {
@@ -45,4 +52,9 @@ h2 {
   background-color: #999;
   border-left: 1px solid #333;
   border-right: 1px solid #333;
+}
+
+.italic {
+  font-style: italic;
+  font-size: .7rem;
 }
