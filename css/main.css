@@ -66,7 +66,7 @@ h3 {
   font-size: .7rem;
 }
 
-a {
+.btn {
   display: inline-block;
   border-radius: 6px;
   background-color: #333;
@@ -76,4 +76,13 @@ a {
   text-decoration: none;
   text-align: center;
   margin: 1rem;
+}
+
+.btn-small {
+background-color: #333;
+}
+
+.btn:hover {
+  background-color: #000;
+
 }
