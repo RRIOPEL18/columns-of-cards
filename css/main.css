@@ -9,6 +9,11 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  background-color: #f2f2f2;
+  margin: 0;
+}
+
 h1 {
   text-align: center;
   font-size: 2rem;
@@ -41,8 +46,8 @@ h2 {
   font-size: 1rem;
   margin: 0;
   padding-left: .4em;
-  padding-top: .5em;
-  padding-bottom: .5em;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
 
 p {
@@ -76,8 +81,8 @@ h3 {
   font-style: italic;
   font-size: .875rem;
   margin: 0;
-  padding-left: .5em;
-  padding-bottom: .5em;
+  padding-left: .4em;
+  padding-bottom: .7em;
 }
 
 .btn {
@@ -98,9 +103,4 @@ h3 {
 
 .btn:hover {
   background-color: #000;
-}
-
-body {
-  background-color: #f2f2f2;
-  margin: 0;
 }
