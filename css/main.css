@@ -19,7 +19,7 @@ div {
   display: inline-block;
   width: 25%;
   float: left;
-  padding-top: .5em;
+  padding-top: .6em;
   font-family: "Open Sans", sans-serif;
 }
 
@@ -84,4 +84,8 @@ h3 {
 
 .btn:hover {
   background-color: #000;
+}
+
+body {
+background-color: #f2f2f2;
 }
