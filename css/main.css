@@ -40,8 +40,6 @@ p {
 .Barrett {
   background-color: #e2e2e2;
   border-left: 1px solid #333;
-
-
 }
 
 .Hedegaard {
@@ -63,4 +61,13 @@ p {
 .italic {
   font-style: italic;
   font-size: .7rem;
+}
+
+a {
+  display: inline-block;
+  border-radius: 6px;
+  background-color: #333;
+  color: #fff;
+  font-size: .7rem;
+
 }
