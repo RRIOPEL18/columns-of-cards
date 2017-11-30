@@ -40,11 +40,13 @@ section img {
 h2 {
   font-size: .875rem;
   margin: 0;
+  padding-left: .4em;
 }
 
 p {
   font-size: .875rem;
   margin: 0;
+  padding-left: .4em;
 }
 
 .barrett {
@@ -71,6 +73,8 @@ p {
 h3 {
   font-style: italic;
   font-size: .875rem;
+  margin: 0;
+  padding-left: .4em;
 }
 
 .btn {
