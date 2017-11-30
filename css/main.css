@@ -38,11 +38,11 @@ section img {
 }
 
 h2 {
-  font-size: .875rem;
+  font-size: 1rem;
   margin: 0;
   padding-left: .4em;
-  padding-top: 1em;
-  padding-bottom: 1em;
+  padding-top: .5em;
+  padding-bottom: .5em;
 }
 
 p {
@@ -76,8 +76,8 @@ h3 {
   font-style: italic;
   font-size: .875rem;
   margin: 0;
-  padding-left: .4em;
-  padding-bottom: .7em;
+  padding-left: .5em;
+  padding-bottom: .5em;
 }
 
 .btn {
