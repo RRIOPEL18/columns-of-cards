@@ -28,16 +28,21 @@ h2 {
 
 .Barrett {
   background-color: #e2e2e2;
+  border-left: 1px solid #333;
 }
 
 .Hedegaard {
   background-color: #ccc;
+  border-left: 1px solid #333;
 }
 
 .Cejkova {
   background-color: #aaa;
+  border-left: 1px solid #333;
 }
 
 .Olivarez {
-  #999;
+  background-color: #999;
+  border-left: 1px solid #333;
+  border-right: 1px solid #333;
 }
